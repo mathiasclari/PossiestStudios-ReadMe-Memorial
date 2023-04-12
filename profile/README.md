@@ -8,7 +8,7 @@
 | Role | Member |
 |-----| ----- |
 | CEO | Mathias Clari Drenik |
-| CTO | Ryan (Snek) | 
-| Executive Producer | Katy Peugh | 
+| CCO | Katy Peugh |
+| CTO | Ryan (Snek) |  
 | Developer | Alex Hendrickx | 
 | Audio Engineer | Sam Nolan | 
